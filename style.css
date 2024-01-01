@@ -98,7 +98,7 @@ main {
 .qr-card {
     background-color: var(--clr-white);
     max-width: 320px;
-    padding: 1.5em 1em;
+    padding: 1em;
     border-radius: 1em;
     margin: 1.5em;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
@@ -116,6 +116,6 @@ h1 {
 .blurb {
     display: grid;
     gap: 1em;
-    padding: 1em;
+    padding: 1.5em 1em;
     text-align: center;
 }
